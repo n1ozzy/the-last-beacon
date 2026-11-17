@@ -60,7 +60,7 @@ See [VALIDATION.md](VALIDATION.md) for results and limitations, and [SOLUTIONS.m
 | `game/index.html` | Semantic controls, instructions and game layout |
 | `main.ts` | Official Node program output and dossier |
 
-No sound is implemented. All visual assets are authored as Canvas geometry or CSS; system fonts only. MIT license; the official vendored library is preserved from the starter.
+No sound is implemented. All visual assets are authored as Canvas geometry or CSS; system fonts only. MIT license; the official vendored library is preserved from the starter, with its original make.fun copyright and MIT notice in `vendor/LICENSE`.
 
 ---
 
